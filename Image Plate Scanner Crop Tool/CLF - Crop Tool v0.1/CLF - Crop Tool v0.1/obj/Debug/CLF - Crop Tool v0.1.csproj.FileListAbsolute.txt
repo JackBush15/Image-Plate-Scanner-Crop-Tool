@@ -1,0 +1,13 @@
+C:\Users\emg59652\source\repos\CLF - Crop Tool v0.1\CLF - Crop Tool v0.1\bin\Debug\CLF - Crop Tool.exe.config
+C:\Users\emg59652\source\repos\CLF - Crop Tool v0.1\CLF - Crop Tool v0.1\bin\Debug\CLF - Crop Tool.exe
+C:\Users\emg59652\source\repos\CLF - Crop Tool v0.1\CLF - Crop Tool v0.1\bin\Debug\CLF - Crop Tool.pdb
+C:\Users\emg59652\source\repos\CLF - Crop Tool v0.1\CLF - Crop Tool v0.1\obj\Debug\CLF - Crop Tool v0.1.csprojAssemblyReference.cache
+C:\Users\emg59652\source\repos\CLF - Crop Tool v0.1\CLF - Crop Tool v0.1\obj\Debug\CLF___Crop_Tool.frmLoadTemp.resources
+C:\Users\emg59652\source\repos\CLF - Crop Tool v0.1\CLF - Crop Tool v0.1\obj\Debug\CLF___Crop_Tool.frmSaveTemp.resources
+C:\Users\emg59652\source\repos\CLF - Crop Tool v0.1\CLF - Crop Tool v0.1\obj\Debug\CLF___Crop_Tool.frmCropImg.resources
+C:\Users\emg59652\source\repos\CLF - Crop Tool v0.1\CLF - Crop Tool v0.1\obj\Debug\CLF___Crop_Tool.frmLoadImg.resources
+C:\Users\emg59652\source\repos\CLF - Crop Tool v0.1\CLF - Crop Tool v0.1\obj\Debug\CLF___Crop_Tool.Properties.Resources.resources
+C:\Users\emg59652\source\repos\CLF - Crop Tool v0.1\CLF - Crop Tool v0.1\obj\Debug\CLF - Crop Tool v0.1.csproj.GenerateResource.cache
+C:\Users\emg59652\source\repos\CLF - Crop Tool v0.1\CLF - Crop Tool v0.1\obj\Debug\CLF - Crop Tool v0.1.csproj.CoreCompileInputs.cache
+C:\Users\emg59652\source\repos\CLF - Crop Tool v0.1\CLF - Crop Tool v0.1\obj\Debug\CLF - Crop Tool.exe
+C:\Users\emg59652\source\repos\CLF - Crop Tool v0.1\CLF - Crop Tool v0.1\obj\Debug\CLF - Crop Tool.pdb
